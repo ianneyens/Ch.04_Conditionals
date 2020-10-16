@@ -22,7 +22,7 @@ if over >= 90:
     print("A")
 elif over >= 80:
     print("B")
-elif over>= 70:
+elif over >= 70:
     print("C")
 elif over >= 60:
     print("D")
