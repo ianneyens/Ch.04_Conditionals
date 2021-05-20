@@ -1,20 +1,20 @@
 # Sign your name:________________
 
-  #1. Make the following program work. (3 mistakes)
-'''
+# 1. Make the following program work. (3 mistakes)
+"""
      midichlorians = float(input("Enter midichlorian count: ")
      if midichlorians > 10000
          print("You have serious Jedi potential")
      elif:
          print("Jedi, you will never be.")
-'''
+"""
 midichlorians = float(input("Enter midichlorian count: "))
 if midichlorians >= 10000:
     print("You have serious Jedi potential")
 else:
     print("Jedi, you will never be.")
 
- # 2. Make the following program work. (3 mistakes)
+# 2. Make the following program work. (3 mistakes)
 '''
      x = input("Enter a number: ")
      if x = 3
@@ -26,7 +26,7 @@ if x == 3:
 else:
     print("That's not a 3")
 
-  # 3. Make the following program work. (4 mistakes)
+# 3. Make the following program work. (4 mistakes)
 '''
      answer = input("What is the name of Poe Dameron's Droid? ")
      if a = "BB8":
@@ -40,7 +40,7 @@ if answer.upper() == "BB8":
 else:
     print("Incorrect! It is BB8.")
 
-  # 4. Make the following program work. (4 mistakes)
+# 4. Make the following program work. (4 mistakes)
 '''
      x = input("Name one of the top 3 greatest Jedi.")
      if jedi == Yoda or Luke Skywalker or Obi-Wan Kenobi:
